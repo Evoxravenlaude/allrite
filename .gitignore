@@ -1,0 +1,9 @@
+node_modules
+.next
+.data
+.env*.local
+public/uploads/*
+!public/uploads/.gitkeep
+.vercel
+.env
+tsconfig.tsbuildinfo
